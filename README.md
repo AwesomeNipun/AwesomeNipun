@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?resize=1588%2C610&ssl=1)
 <h1 align="center">Hi 👋, I'm Nipun Pramuditha</h1>
 <h3 align="center">I'm interested in web development</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -15,6 +15,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awesomenipun&show_icons=true&locale=en&layout=compact" alt="awesomenipun" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awesomenipun&show_icons=true&locale=en" alt="awesomenipun" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=awesomenipun&show_icons=true&locale=en&theme=dark" alt="awesomenipun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesomenipun&" alt="awesomenipun" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awesomenipun&&theme=dark" alt="awesomenipun" /></p>
