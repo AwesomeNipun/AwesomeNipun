@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nipun Pramuditha</h1>
 <h3 align="center">I'm interested in web development</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0eQmkr1RPUoXFRa8w1dERE&ust=1669136387813000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICUgd3fv_sCFQAAAAAdAAAAABAi">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awesomenipun&label=Profile%20views&color=0e75b6&style=flat" alt="awesomenipun" /> </p>
 
 <h3 align="left">Connect with me:</h3>
